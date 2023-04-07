@@ -70,6 +70,7 @@ body {
   z-index: 1;
   animation: backgroundAnimated 3s infinite;
 }
+
 .header_image::after {
   filter: blur(1rem);
   height: calc(100% + 0.5rem);
